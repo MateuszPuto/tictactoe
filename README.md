@@ -3,6 +3,7 @@
 Repository containing Tic-Tac-Toe AI. I provide the hand-written and neural network version of a player. You can also find here implementation of the tic-tac-toe game.
 
 ![Example game](bot-game.png)
+*Example game played by a bot player. List above the board shows assesed quality of moves.*
 
 - In game.py you can find basic board handling methods.
 - The ttt_ai.py is perfect tic-tac-toe player according to game theory.
