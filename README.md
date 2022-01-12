@@ -6,6 +6,7 @@ Repository containing Tic-Tac-Toe AI. I provide the hand-written and neural netw
 *1.1 Example game played by a bot player. List above the board shows assesed quality of moves.*
 
 ______________________________________________________
+### Repository content:
 - In game.py you can find basic board handling methods.
 - The ttt_ai.py is perfect tic-tac-toe player according to game theory.
 - nets.py contains neural net used in search.py.
